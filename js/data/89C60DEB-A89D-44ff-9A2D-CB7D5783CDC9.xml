@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "Services", "EARoot/EA2/EA22.htm", "3.png", "6", "0", "", "Logical diagram0","{E8D68BE1-6569-418d-9002-CAF4485E226C}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "DailyMenusService", "EARoot/EA2/EA26.htm", "5.png", "E26", "0", "", "Class0","{ED6A6742-0E0D-4a56-BE8B-C50F09F3D373}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "IngredientCategoriesService", "EARoot/EA2/EA27.htm", "5.png", "E27", "0", "", "Class0","{50698DD5-1BAC-4df6-83CD-A49B18278AD8}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "IngredientsService", "EARoot/EA2/EA28.htm", "5.png", "E28", "0", "", "Class0","{DBF31253-02BE-4e6b-885F-76B44B2295EC}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "RecipeCategoriesService", "EARoot/EA2/EA29.htm", "5.png", "E29", "0", "", "Class0","{91F78811-C14C-4a8d-AD57-9500DF89A36E}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "RecipesService", "EARoot/EA2/EA30.htm", "5.png", "E30", "0", "", "Class0","{213C79D2-5A6A-4de9-8D16-4E5B73CF6D7D}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Abstractions", "EARoot/EA2/EA1/EA33.htm", "4.png", "", "", "{9CE56828-DC37-41f9-B6CB-4AA12195CD86}", "Package");

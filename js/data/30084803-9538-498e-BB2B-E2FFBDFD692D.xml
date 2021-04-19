@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0:1", "", "EkoRestaurant Class Diagram", "EARoot/EA1.htm", "175.png", "1", "0", "", "Logical diagram0","{5F382B93-8AB3-4810-8909-314F3FA966AF}");
+tocTab[tocTab.length] = new Array("0.1", "1", "Data", "EARoot/EA1/EA8.htm", "4.png", "", "", "{E718CFE9-F9FC-40d6-B0A1-D1E9C5744E2A}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "Services", "EARoot/EA2/EA24.htm", "4.png", "", "", "{89C60DEB-A89D-44ff-9A2D-CB7D5783CDC9}", "Package");
